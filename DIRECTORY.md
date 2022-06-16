@@ -107,6 +107,7 @@
   * [Lempel Ziv](https://github.com/TheAlgorithms/Python/blob/master/compression/lempel_ziv.py)
   * [Lempel Ziv Decompress](https://github.com/TheAlgorithms/Python/blob/master/compression/lempel_ziv_decompress.py)
   * [Peak Signal To Noise Ratio](https://github.com/TheAlgorithms/Python/blob/master/compression/peak_signal_to_noise_ratio.py)
+  * [Test Wip](https://github.com/TheAlgorithms/Python/blob/master/compression/test_wip.py)
 
 ## Computer Vision
   * [Cnn Classification](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/cnn_classification.py)
@@ -1020,8 +1021,6 @@
   * [Word Occurrence](https://github.com/TheAlgorithms/Python/blob/master/strings/word_occurrence.py)
   * [Word Patterns](https://github.com/TheAlgorithms/Python/blob/master/strings/word_patterns.py)
   * [Z Function](https://github.com/TheAlgorithms/Python/blob/master/strings/z_function.py)
-
-## [Test Git Wip](https://github.com/TheAlgorithms/Python/blob/master//test_git_wip.py)
 
 ## Web Programming
   * [Co2 Emission](https://github.com/TheAlgorithms/Python/blob/master/web_programming/co2_emission.py)
